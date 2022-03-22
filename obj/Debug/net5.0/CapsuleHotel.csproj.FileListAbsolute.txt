@@ -1,0 +1,16 @@
+C:\Users\MT Hougland\Documents\Genesis10\CapsuleHotel\bin\Debug\net5.0\CapsuleHotel.exe
+C:\Users\MT Hougland\Documents\Genesis10\CapsuleHotel\bin\Debug\net5.0\CapsuleHotel.deps.json
+C:\Users\MT Hougland\Documents\Genesis10\CapsuleHotel\bin\Debug\net5.0\CapsuleHotel.runtimeconfig.json
+C:\Users\MT Hougland\Documents\Genesis10\CapsuleHotel\bin\Debug\net5.0\CapsuleHotel.runtimeconfig.dev.json
+C:\Users\MT Hougland\Documents\Genesis10\CapsuleHotel\bin\Debug\net5.0\CapsuleHotel.dll
+C:\Users\MT Hougland\Documents\Genesis10\CapsuleHotel\bin\Debug\net5.0\ref\CapsuleHotel.dll
+C:\Users\MT Hougland\Documents\Genesis10\CapsuleHotel\bin\Debug\net5.0\CapsuleHotel.pdb
+C:\Users\MT Hougland\Documents\Genesis10\CapsuleHotel\obj\Debug\net5.0\CapsuleHotel.csproj.AssemblyReference.cache
+C:\Users\MT Hougland\Documents\Genesis10\CapsuleHotel\obj\Debug\net5.0\CapsuleHotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MT Hougland\Documents\Genesis10\CapsuleHotel\obj\Debug\net5.0\CapsuleHotel.AssemblyInfoInputs.cache
+C:\Users\MT Hougland\Documents\Genesis10\CapsuleHotel\obj\Debug\net5.0\CapsuleHotel.AssemblyInfo.cs
+C:\Users\MT Hougland\Documents\Genesis10\CapsuleHotel\obj\Debug\net5.0\CapsuleHotel.csproj.CoreCompileInputs.cache
+C:\Users\MT Hougland\Documents\Genesis10\CapsuleHotel\obj\Debug\net5.0\CapsuleHotel.dll
+C:\Users\MT Hougland\Documents\Genesis10\CapsuleHotel\obj\Debug\net5.0\ref\CapsuleHotel.dll
+C:\Users\MT Hougland\Documents\Genesis10\CapsuleHotel\obj\Debug\net5.0\CapsuleHotel.pdb
+C:\Users\MT Hougland\Documents\Genesis10\CapsuleHotel\obj\Debug\net5.0\CapsuleHotel.genruntimeconfig.cache
